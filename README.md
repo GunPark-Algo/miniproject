@@ -1,6 +1,6 @@
 #Mini Project
 
-## 실행방법
+## 실행방법 (https://github.com/GunPark-Algo/miniproject.git)
 > #### mvn clean
 > #### java -jar ./target/MiniProject-1.0-SNAPSHOT.jar
 
